@@ -2,7 +2,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
+![](https://komarev.com/ghpvc/?username=TanyaKonono&color=blueviolet)
 
 <h3>My Tech Stack>
 <p>
